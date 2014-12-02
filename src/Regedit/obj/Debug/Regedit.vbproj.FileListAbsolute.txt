@@ -1,0 +1,10 @@
+c:\users\keiran\documents\visual studio 2012\Projects\Regedit\Regedit\bin\Debug\Regedit.exe.config
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\bin\Debug\Regedit.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\bin\Debug\Regedit.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\bin\Debug\Regedit.xml
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\obj\Debug\Regedit.Form1.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\obj\Debug\Regedit.Resources.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\obj\Debug\Regedit.vbproj.GenerateResource.Cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\obj\Debug\Regedit.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\obj\Debug\Regedit.xml
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\Regedit\Regedit\obj\Debug\Regedit.pdb
